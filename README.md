@@ -1,4 +1,4 @@
-# Teiji Schoyen
+# Teiji
 
 (Pronounced **Tay-jee**)
 
