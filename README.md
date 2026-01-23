@@ -1,3 +1,3 @@
 # Teiji
 
-(Pronounced **Tay-jee**)
+(Pronounced Tay-jee)
