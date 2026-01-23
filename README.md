@@ -1,3 +1,3 @@
-# Teiji
+# Teiji Schoyen
 
 (Pronounced Tay-jee)
