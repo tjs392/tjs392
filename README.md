@@ -1,7 +1,7 @@
 ```rust
 #[test]
 fn who() {
-    let me = Teijii::new();
+    let me = Teiji::new();
     assert_eq!(me.pronounce(), "Tay-Jee");
 }
 ```
