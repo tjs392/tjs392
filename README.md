@@ -1,6 +1,5 @@
 ```rust
-fn who() {
-    let me = Teiji::new();
-    assert_eq!(me.pronounce(), "Tay-Jee");
+pub fn who_am_i() -> &'static str {
+    "Teiji"
 }
 ```
